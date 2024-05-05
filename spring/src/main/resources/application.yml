@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-api
+  datasource:
+    username: marcos
+    password: 1234
+    url: jdbc://postgresql://localhost:5432/spring_prometheus
